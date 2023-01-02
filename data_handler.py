@@ -1,0 +1,53 @@
+class DataHandler(object):
+
+    lol_champions = [
+                    "Shyvana", "Vi", "Trundle", "Akali",
+                    "Rammus", "Singed", "Thresh", "Twitch",
+                    "Janna", "Taric", "Fizz", "Tristana",
+                    "Amumu", "Kog'Maw", "Anivia", "Draven",
+                    "Karma", "Pantheon", "Leona", "Malzahar",
+                    "LeBlanc", "Brand", "Sejuani", "Irelia",
+                    "Olaf", "Talon", "Caitlyn", "Cassiopeia",
+                    "Ezreal", "Malphite", "Cho'Gath", "Shen",
+                    "Fiora", "Renekton", "Viktor", "Darius",
+                    "Shaco", "Lee Sin", "Diana", "Graves",
+                    "Nautilus", "Gangplank", "Evelynn", "Riven",
+                    "Alistar", "Jarvan IV", "Nasus", "Gragas",
+                    "Nidalee", "Ziggs", "Heimerdinger", "Morgana",
+                    "Elise", "Jinx", "Yasuo", "Rengar",
+                    "Vel'Koz", "Skarner", "Lux", "Annie",
+                    "Lulu", "Nami", "Galio", "Nocturne",
+                    "Veigar", "Rumble", "Ryze", "Master Yi",
+                    "Sion", "Sivir", "Sona", "Soraka",
+                    "Swain", "Syndra", "Lissandra", "Kayle",
+                    "Zilean", "Corki", "Wukong", "Ahri",
+                    "Volibear", "Kennen", "Mordekaiser", "Twisted Fate",
+                    "Varus", "Hecarim", "Kha'Zix", "Zac",
+                    "Vayne", "Warwick", "Miss Fortune", "Fiddlesticks",
+                    "Karthus", "Xin Zhao", "Kassadin", "Xerath",
+                    "Yorick", "Urgot", "Katarina", "Jax",
+                    "Garen", "Teemo", "Blitzcrank", "Maokai",
+                    "Gnar", "Orianna", "Quinn", "Rek'Sai",
+                    "Tryndamere", "Vladimir", "Bard", "Dr Mundo",
+                    "Ekko", "Tahm Kench", "Zed", "Kalista",
+                    "Kindred", "Illaoi", "Ashe", "Jhin",
+                    "Aurelion Sol", "Poppy", "Kled", "Lucian",
+                    "Azir", "Ivern", "Taliyah", "Camille",
+                    "Rakan", "Xayah", "Kayn", "Ornn",
+                    "Zoe", "Jayce", "Braum", "Zyra",
+                    "Aatrox", "Pyke", "Udyr", "Nunu i Willump",
+                    "Neeko", "Sylas", "Yuumi", "Qiyana",
+                    "Senna", "Aphelios", "Sett", "Lillia",
+                    "Yone", "Samira", "Seraphine", "Rell",
+                    "Viego", "Gwen", "Akshan", "Vex",
+                    "Zeri", "Kai'Sa", "Renata Glasc", "Bel'Veth", "Nilah"
+                    ]
+
+    genshin_characters = [
+                         "Albedo", "Arataki Itto", "Cyno", "Eula",
+                         "Ganyu", "Hu Tao", "Kaedehara Kazuha", "Kamisato Ayaka",
+                         "Kamisato Ayato", "Klee", "Nahida", "Nilou",
+                         "Raiden Shogun", "	Sangonomiya Kokomi", "Shenhe", "Tartaglia",
+                         "Venti", "Wanderer", "Xiao", "Yae Miko", 
+                         "Yelan", "Yoimiya", "Zhongli"
+                         ]
